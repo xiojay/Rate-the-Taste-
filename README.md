@@ -1,1 +1,1 @@
-# rate-the-taste-front-end
+# Rate-the-Taste-
